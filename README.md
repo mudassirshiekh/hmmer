@@ -1,4 +1,5 @@
 ## HMMER - biological sequence analysis using profile HMMs
+ #By Mudassor Alam
 
 ![](http://img.shields.io/badge/license-BSD-brightgreen.svg)
 
